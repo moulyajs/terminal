@@ -421,6 +421,7 @@ void lknow()
         printf("No. of lines = %d\n", count);
     }
 }
+// menu
 void help()
 {
     printf("\n");
